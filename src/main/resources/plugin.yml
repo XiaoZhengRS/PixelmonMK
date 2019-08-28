@@ -1,0 +1,14 @@
+name: PokMK
+version: 1.1.9
+main: com.xzkj.pokmk.PokMK
+depend: [PlaceholderAPI, Vault]
+softdepend: [ProtocolLib]
+authors: [XiaoZheng]
+description: 购买联系作者1419158026
+commands:
+  PMK:
+    description: null
+    usage: /<command>
+  PMKAD:
+    description: null
+    usage: /<command>
